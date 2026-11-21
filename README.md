@@ -39,9 +39,9 @@ This project focuses on evaluating equilibrium batch adsorption data for methyle
 
 ## Core Findings
 
-- **Governing Isotherm:** The **Temkin model** provided the closest agreement across every evaluated metric ($R^2 = 0.9972$, lowest SSE and $\chi^2$)[cite: 10, 44, 45]. This points to an energetically heterogeneous surface where the heat of adsorption drops linearly as coverage increases[cite: 10, 45].
-- **Adsorption Mechanism:** The Dubinin-Radushkevich mean free energy evaluated to **$E = 5.0\text{ kJ/mol}$**[cite: 10, 41]. Since $E < 8.0\text{ kJ/mol}$, the removal is driven by physical adsorption (physisorption) governed by weak Van der Waals interactions[cite: 10, 26].
-- **Prototype Batch Reactor Sizing:** Sizing a single-stage batch reactor for 10 L of wastewater with an initial concentration of $2.5\text{ g/L}$ to achieve 90% dye removal ($c_e = 0.25\text{ g/L}$) yields an equilibrium capacity of $q_e = 86.45\text{ mg/g}$ via Temkin, requiring **$0.26\text{ kg}$** of activated carbon[cite: 10].
+- **Governing Isotherm:** The **Temkin model** provided the closest agreement across every evaluated metric ($R^2 = 0.9972$, lowest SSE and $\chi^2$). This points to an energetically heterogeneous surface where the heat of adsorption drops linearly as coverage increases.
+- **Adsorption Mechanism:** The Dubinin-Radushkevich mean free energy evaluated to **$E = 5.0\text{ kJ/mol}$**. Since $E < 8.0\text{ kJ/mol}$, the removal is driven by physical adsorption (physisorption) governed by weak Van der Waals interactions.
+- **Prototype Batch Reactor Sizing:** Sizing a single-stage batch reactor for 10 L of wastewater with an initial concentration of $2.5\text{ g/L}$ to achieve 90% dye removal ($c_e = 0.25\text{ g/L}$) yields an equilibrium capacity of $q_e = 86.45\text{ mg/g}$ via Temkin, requiring **$0.26\text{ kg}$** of activated carbon.
 
 ---
 
