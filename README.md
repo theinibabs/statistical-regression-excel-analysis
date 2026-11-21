@@ -46,4 +46,4 @@ This project focuses on evaluating equilibrium batch adsorption data for methyle
 ---
 
 ## Files
-- `Adsorption_Isotherm_Regression_Analysis.xlsx`: Full calculation sheet, raw data, calibration plots, isotherm regressions, and error formulas.
+- `Adsorption_Isotherms_Regression_Analysis.xlsx`: Full calculation sheet, raw data, calibration plots, isotherm regressions, and error formulas.
